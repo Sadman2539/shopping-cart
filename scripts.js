@@ -1,1 +1,4 @@
-console.log('I am in a separate file')
+const minusButtons = document.getElementsByClassName('minus-button');
+for (const item of minusButtons) {
+
+}
